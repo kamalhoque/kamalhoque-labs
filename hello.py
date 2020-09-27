@@ -1,6 +1,7 @@
 # Introduction to Programming
-# Author: your name here
-# Date: today's date here
+# Author: Kamal Hoque
+# Date: 09/26/20
 def main():
   print("Hello, instructor!")
+  print("Good-bye!")
 main()
